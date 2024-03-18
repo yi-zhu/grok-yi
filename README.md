@@ -7,7 +7,7 @@ This repository contains JAX example code for loading and running the Grok-1 ope
 Make sure to download the checkpoint and place `ckpt-0` directory in `checkpoint`.
 Then, run
 
-确保已经下'ckpt-0'模型，并放在'checkpoint'文件夹内，如果没有下载
+确保已经下载'ckpt-0'模型，并放在'checkpoint'文件夹内，如果没有下载程序将不能运行
 
 ```shell
 pip install -r requirements.txt
@@ -30,6 +30,7 @@ The implementation of the MoE layer in this repository is not efficient. The imp
 
 
 You can download the weights using a torrent client and this magnet link:
+
 您可以使用 torrent 、迅雷来下载磁力链接：
 
 ```
